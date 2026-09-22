@@ -98,17 +98,17 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📈 Quant Trading Bot</h3>
-      <p align="center"><b>Binance Futures Testnet Algorithmic Engine</b></p>
+      <h3 align="center">⚙️ DevSecOps Security Gate</h3>
+      <p align="center"><b>Zero-Trust CI/CD Shift-Left Automation</b></p>
       <ul>
-        <li>Automated trading execution CLI built for Binance Futures with dynamic risk management and order sizing.</li>
-        <li>Real-time market telemetry, position monitoring, and robust error-handling mechanisms.</li>
+        <li>Automated 5-stage DevSecOps pipeline orchestrating <b>Gitleaks</b>, <b>Semgrep & Bandit SAST</b>, <b>Trivy SCA</b>, and <b>OWASP ZAP DAST</b>.</li>
+        <li>Multi-stage non-root Docker containerization with automated fail-safe quality gates.</li>
       </ul>
       <p align="center">
-        <code>Python</code> • <code>Binance API</code> • <code>Algorithmic Trading</code> • <code>CLI</code>
+        <code>GitHub Actions</code> • <code>Docker</code> • <code>Semgrep</code> • <code>Trivy</code> • <code>OWASP ZAP</code>
       </p>
       <p align="center">
-        <a href="https://github.com/Riyaenthusiast/trading-bot"><b>View Codebase ➔</b></a>
+        <a href="https://github.com/Riyaenthusiast/devsecops-pipeline-sentinell"><b>View Codebase ➔</b></a>
       </p>
     </td>
   </tr>
