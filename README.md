@@ -25,6 +25,14 @@
 
 ---
 
+### 💼 Professional Experience & Internships
+
+- **Digital Forensics & Incident Response (DFIR) Intern** — *Dronashield Cyber Forensics Pvt Ltd* `(June 2026 – July 2026)`
+  - Conducted digital forensics investigations, log correlation, packet inspection, and filesystem artifact triage.
+  - Authored structured incident analysis notes, evidence handling records, and actionable remediation guidelines.
+
+---
+
 ### 🛠️ Technical Matrix
 
 <div align="center">
@@ -46,10 +54,10 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ AegisRisk AI</h3>
-      <p align="center"><b>Syndicate & RTO Abuse-Ring Sentinel (Razorpay AI Buildathon)</b></p>
+      <p align="center"><b>Syndicate & RTO Abuse Sentinel (Razorpay AI Buildathon)</b></p>
       <ul>
         <li>Bipartite entity graph model tracking <code>User ID ↔ Device Fingerprint ↔ IP Subnet ↔ Geohash</code>.</li>
-        <li>Achieved <b>0.861 ROC-AUC</b> with an optimal threshold catching <b>72.9% fraud</b> at <b>0% false alarm loss</b>.</li>
+        <li>Achieved <b>0.861 ROC-AUC</b> with an optimal cost threshold catching <b>72.9% fraud</b> at <b>0% false alarm loss</b>.</li>
         <li>Interactive Streamlit Studio with real-time explainability audit.</li>
       </ul>
       <p align="center">
@@ -75,32 +83,18 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center">⚡ Phishing Triage Engine</h3>
       <p align="center"><b>Automated Threat Intelligence & ML Classifier</b></p>
       <ul>
-        <li>Automated IOC ingestion querying <b>VirusTotal</b> & <b>AbuseIPDB</b> for real-time reputation and blacklist correlation.</li>
-        <li>Layered with a <b>Scikit-learn ML classifier</b> for combined risk scoring, exposed via a production-ready <b>FastAPI</b> REST service.</li>
+        <li>Automated IOC ingestion querying <b>VirusTotal</b> & <b>AbuseIPDB</b> for real-time domain reputation and IP blacklist correlation.</li>
+        <li>Layered with a <b>Scikit-learn ML classifier</b> returning combined risk scores and confidence verdicts via a production-grade <b>FastAPI</b> REST service.</li>
       </ul>
       <p align="center">
         <code>FastAPI</code> • <code>Threat Intelligence</code> • <code>Scikit-Learn</code> • <code>REST API</code>
       </p>
       <p align="center">
         <a href="https://github.com/Riyaenthusiast/phishing-analysis-tool"><b>Explore Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔬 Forensic Operations Suite</h3>
-      <p align="center"><b>Digital Forensics & Incident Response Simulation Hub</b></p>
-      <ul>
-        <li>Interactive multi-module operational suite for mobile extractions, raw sector disk images, digital signature verification, and GRC presentations.</li>
-        <li>Structured audit documentation workflows mirroring real-world SOC & DFIR lab procedures.</li>
-      </ul>
-      <p align="center">
-        <code>Digital Forensics</code> • <code>DFIR</code> • <code>Artifact Inspection</code> • <code>Interactive UI</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Riyaenthusiast/forensic-operations-suite"><b>Explore Repository ➔</b></a>
       </p>
     </td>
   </tr>
