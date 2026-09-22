@@ -53,55 +53,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ AegisRisk AI</h3>
-      <p align="center"><b>Syndicate & RTO Abuse Sentinel (Razorpay AI Buildathon)</b></p>
-      <ul>
-        <li>Bipartite entity graph model tracking <code>User ID ↔ Device Fingerprint ↔ IP Subnet ↔ Geohash</code>.</li>
-        <li>Achieved <b>0.861 ROC-AUC</b> with an optimal threshold catching <b>72.9% fraud</b> at <b>0% false alarm loss</b>.</li>
-        <li>Interactive Streamlit Studio with real-time explainability audit.</li>
-      </ul>
-      <p align="center">
-        <code>Python</code> • <code>Graph Analytics</code> • <code>Scikit-Learn</code> • <code>Streamlit</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Riyaenthusiast/aegis-risk-ai"><b>View Codebase ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 DPDP-Sentinel</h3>
-      <p align="center"><b>AI-Agentic Compliance-as-Code Platform</b></p>
-      <ul>
-        <li>Autonomous multi-agent pipeline using <b>LangGraph</b> and <b>Gemini API</b> to evaluate configs against <b>DPDP Act 2023</b> & <b>ISO 27001</b>.</li>
-        <li>Automated policy extraction, codebase inspection, gap reasoning, and instant remediation patch generation.</li>
-      </ul>
-      <p align="center">
-        <code>Python</code> • <code>LangGraph</code> • <code>FastAPI</code> • <code>Gemini Pro</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Riyaenthusiast/dpdp-sentinel"><b>View Codebase ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Phishing Detector</h3>
-      <p align="center"><b>Automated Threat Intelligence & Classifier</b></p>
-      <ul>
-        <li>Automated IOC triage pipeline querying threat intelligence feeds for domain reputation and blacklist correlation.</li>
-        <li>Layered with machine learning classifiers for real-time risk scoring and suspicious payload detection.</li>
-      </ul>
-      <p align="center">
-        <code>Python</code> • <code>Threat Intel</code> • <code>Scikit-Learn</code> • <code>ML Triage</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Riyaenthusiast/phishing_detector"><b>View Codebase ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">⚙️ DevSecOps Security Gate</h3>
       <p align="center"><b>Zero-Trust CI/CD Shift-Left Automation</b></p>
       <ul>
-        <li>Automated 5-stage DevSecOps pipeline orchestrating <b>Gitleaks</b>, <b>Semgrep & Bandit SAST</b>, <b>Trivy SCA</b>, and <b>OWASP ZAP DAST</b>.</li>
+        <li>Automated 5-stage DevSecOps pipeline with <b>Gitleaks</b>, <b>Semgrep & Bandit SAST</b>, <b>Trivy SCA</b>, and <b>OWASP ZAP DAST</b>.</li>
         <li>Multi-stage non-root Docker containerization with automated fail-safe quality gates.</li>
       </ul>
       <p align="center">
@@ -109,6 +64,50 @@
       </p>
       <p align="center">
         <a href="https://github.com/Riyaenthusiast/devsecops-pipeline-sentinell"><b>View Codebase ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Linux CIS Hardening Auditor</h3>
+      <p align="center"><b>OS Hardening & Compliance Engine</b></p>
+      <ul>
+        <li>Automated Linux host security auditor inspecting SSH, <code>/etc/shadow</code> permissions (0640), and <code>sysctl</code> kernel parameters.</li>
+        <li>Weighted compliance scoring with <b>NIST SP 800-53</b> & <b>ISO 27001</b> mapping and automated remediation.</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> • <code>Linux Security</code> • <code>CIS Benchmark</code> • <code>NIST / ISO 27001</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Riyaenthusiast/linux-cis-sentinel"><b>View Codebase ➔</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚨 Linux SOAR Threat Sentinel</h3>
+      <p align="center"><b>Real-Time SOC Detection & Incident Response</b></p>
+      <ul>
+        <li>Real-time telemetry watcher correlating attacks to <b>MITRE ATT&CK</b> (SSH brute force, sudo abuse, reverse shells).</li>
+        <li>Automated SOAR playbooks executing <code>iptables</code> IP drops and <code>SIGKILL</code> rogue process termination.</li>
+      </ul>
+      <p align="center">
+        <code>SOC Automation</code> • <code>MITRE ATT&CK</code> • <code>Linux Telemetry</code> • <code>SOAR</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Riyaenthusiast/linux-soar-sentinel"><b>View Codebase ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 DPDP-Sentinel</h3>
+      <p align="center"><b>AI-Agentic Compliance-as-Code Platform</b></p>
+      <ul>
+        <li>Autonomous multi-agent pipeline using <b>LangGraph</b> and <b>Gemini API</b> to evaluate configs against <b>DPDP Act 2023</b>.</li>
+        <li>Automated policy extraction, codebase inspection, gap reasoning, and instant remediation patch generation.</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> • <code>LangGraph</code> • <code>FastAPI</code> • <code>Gemini Pro</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Riyaenthusiast/dpdp-sentinel"><b>View Codebase ➔</b></a>
       </p>
     </td>
   </tr>
