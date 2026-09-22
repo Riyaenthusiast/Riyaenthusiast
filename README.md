@@ -2,7 +2,7 @@
 
 # 🛡️ Riya Singh
 ### **Cybersecurity Engineer | AI Security & DFIR | NASA Hall of Fame**
-**B.Tech Cyber Security • Symbiosis Skills & Professional University, Pune (CGPA: 8.99)**
+**B.Tech Cyber Security • Symbiosis Skills & Professional University, Pune (CGPA: 9.20)**
 
 [![NASA Hall of Fame](https://img.shields.io/badge/NASA-Hall_of_Fame_Acknowledged-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://linkedin.com/in/riya-singh-5b0579287)
 [![SIH 2025 Winner](https://img.shields.io/badge/SIH_2025-1st_Place_Internal-FF9933?style=for-the-badge&logo=shield&logoColor=white)](https://linkedin.com/in/riya-singh-5b0579287)
