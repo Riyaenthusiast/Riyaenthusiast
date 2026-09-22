@@ -4,21 +4,21 @@
 ### **Cybersecurity Engineer | AI Security & DFIR | NASA Hall of Fame**
 **B.Tech Cyber Security • Symbiosis Skills & Professional University, Pune (CGPA: 9.20)**
 
-[![NASA Hall of Fame](https://img.shields.io/badge/NASA-Hall_of_Fame_Acknowledged-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://linkedin.com/in/riya-singh-5b0579287)
+[![NASA Hall of Fame](https://img.shields.io/badge/NASA-Hall_of_Fame_Acknowledged-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://github.com/Riyaenthusiast/Finding-a-new-vulnerability-in-nasa-domain-and-landed-in-hall-of-fame)
 [![SIH 2025 Winner](https://img.shields.io/badge/SIH_2025-1st_Place_Internal-FF9933?style=for-the-badge&logo=shield&logoColor=white)](https://linkedin.com/in/riya-singh-5b0579287)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-singh-5b0579287)
 [![Email](https://img.shields.io/badge/Email-riyaswork9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyaswork9@gmail.com)
 
 <br/>
 
-> 🛡️ *"Engineering defense-in-depth: Bridging AI agentic compliance, graph-based fraud telemetry, kernel monitoring, and offensive application security."*
+> 🛡️ *"Engineering defense-in-depth: Bridging AI agentic compliance, graph-based fraud telemetry, quantitative risk modeling, and offensive application security."*
 
 </div>
 
 ---
 
 ### 🏆 Key Honors & Recognitions
-- 🚀 **NASA Hall of Fame**: Responsibly identified and disclosed a security vulnerability affecting a NASA domain; recognized for rigorous reproduction reporting and ethical disclosure.
+- 🚀 **[NASA Hall of Fame](https://github.com/Riyaenthusiast/Finding-a-new-vulnerability-in-nasa-domain-and-landed-in-hall-of-fame)**: Responsibly identified and disclosed a security vulnerability affecting a NASA domain; recognized for rigorous reproduction reporting and ethical disclosure.
 - 🥇 **Smart India Hackathon 2025 (1st Place, Internal Round)**: Ministry of Education, Government of India.
 - 🥈 **1st Runner-Up**: Flag Hunter Cybersecurity Competition (DYP Patel College).
 - 🔍 **Active Bug Hunter**: Tested live targets across Bugcrowd, Com Olho, and OpenAI Safety initiatives (BOLA/IDOR, Access Control, Injection flaws).
@@ -57,14 +57,14 @@
       <p align="center"><b>Syndicate & RTO Abuse Sentinel (Razorpay AI Buildathon)</b></p>
       <ul>
         <li>Bipartite entity graph model tracking <code>User ID ↔ Device Fingerprint ↔ IP Subnet ↔ Geohash</code>.</li>
-        <li>Achieved <b>0.861 ROC-AUC</b> with an optimal cost threshold catching <b>72.9% fraud</b> at <b>0% false alarm loss</b>.</li>
+        <li>Achieved <b>0.861 ROC-AUC</b> with an optimal threshold catching <b>72.9% fraud</b> at <b>0% false alarm loss</b>.</li>
         <li>Interactive Streamlit Studio with real-time explainability audit.</li>
       </ul>
       <p align="center">
         <code>Python</code> • <code>Graph Analytics</code> • <code>Scikit-Learn</code> • <code>Streamlit</code>
       </p>
       <p align="center">
-        <a href="https://github.com/Riyaenthusiast/aegis-risk-ai"><b>Explore Repository ➔</b></a>
+        <a href="https://github.com/Riyaenthusiast/aegis-risk-ai"><b>View Codebase ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -78,27 +78,78 @@
         <code>Python</code> • <code>LangGraph</code> • <code>FastAPI</code> • <code>Gemini Pro</code>
       </p>
       <p align="center">
-        <a href="https://github.com/Riyaenthusiast/dpdp-sentinel"><b>Explore Repository ➔</b></a>
+        <a href="https://github.com/Riyaenthusiast/dpdp-sentinel"><b>View Codebase ➔</b></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">⚡ Phishing Triage Engine</h3>
-      <p align="center"><b>Automated Threat Intelligence & ML Classifier</b></p>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Phishing Detector</h3>
+      <p align="center"><b>Automated Threat Intelligence & Classifier</b></p>
       <ul>
-        <li>Automated IOC ingestion querying <b>VirusTotal</b> & <b>AbuseIPDB</b> for real-time domain reputation and IP blacklist correlation.</li>
-        <li>Layered with a <b>Scikit-learn ML classifier</b> returning combined risk scores and confidence verdicts via a production-grade <b>FastAPI</b> REST service.</li>
+        <li>Automated IOC triage pipeline querying threat intelligence feeds for domain reputation and blacklist correlation.</li>
+        <li>Layered with machine learning classifiers for real-time risk scoring and suspicious payload detection.</li>
       </ul>
       <p align="center">
-        <code>FastAPI</code> • <code>Threat Intelligence</code> • <code>Scikit-Learn</code> • <code>REST API</code>
+        <code>Python</code> • <code>Threat Intel</code> • <code>Scikit-Learn</code> • <code>ML Triage</code>
       </p>
       <p align="center">
-        <a href="https://github.com/Riyaenthusiast/phishing-analysis-tool"><b>Explore Repository ➔</b></a>
+        <a href="https://github.com/Riyaenthusiast/phishing_detector"><b>View Codebase ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Quant Trading Bot</h3>
+      <p align="center"><b>Binance Futures Testnet Algorithmic Engine</b></p>
+      <ul>
+        <li>Automated trading execution CLI built for Binance Futures with dynamic risk management and order sizing.</li>
+        <li>Real-time market telemetry, position monitoring, and robust error-handling mechanisms.</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> • <code>Binance API</code> • <code>Algorithmic Trading</code> • <code>CLI</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Riyaenthusiast/trading-bot"><b>View Codebase ➔</b></a>
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🔬 Security Research, MLOps & Open-Source Contributions
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🚀 NASA Vulnerability Disclosure</h4>
+      <p align="center">Responsible disclosure report detailing the reproduction and mitigation of a flaw on a NASA domain.</p>
+      <p align="center">
+        <a href="https://github.com/Riyaenthusiast/Finding-a-new-vulnerability-in-nasa-domain-and-landed-in-hall-of-fame"><b>Read Writeup ➔</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">💳 Fraud Predictive Engine</h4>
+      <p align="center">Machine learning models for transaction risk profiling, anomaly detection, and fraud mitigation.</p>
+      <p align="center">
+        <a href="https://github.com/Riyaenthusiast/fraud-predictive-engine"><b>View Repo ➔</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚙️ MLOps Task Pipeline</h4>
+      <p align="center">Automated model tracking, data validation workflows, and reproducible ML training pipelines.</p>
+      <p align="center">
+        <a href="https://github.com/Riyaenthusiast/mlops_task"><b>View Repo ➔</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🤝 Open Source & Collaborative Repositories
+
+- 🌐 **[simple_webapp](https://github.com/Riyaenthusiast/simple_webapp)** — *Full-Stack / Web Development Contributor & Collaborator*  
+  `Contributed` • `Web Engineering` • `Open Source`
 
 ---
 
